@@ -1,1 +1,1 @@
-# priority-chan
+# 优先级channel
